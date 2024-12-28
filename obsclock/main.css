@@ -109,5 +109,5 @@
 body {
   background-image: url("./assets/background.jpg");
   background-repeat: no-repeat;
-  background-size: cover;
+  background-size: 1920px 1080px;
 }
