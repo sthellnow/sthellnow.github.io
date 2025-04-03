@@ -1,0 +1,15 @@
+.DS_Store
+package-lock.json
+node_modules
+npm-debug.log
+yarn-error.log
+yarn-debug.log
+coverage
+*.log
+*.lock
+*.tgz
+*.zip
+*.tar.gz
+*.tar
+*.gz
+*.tgz
