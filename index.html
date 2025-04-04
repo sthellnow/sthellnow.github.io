@@ -46,9 +46,10 @@
             const em = document.createElement("em");
             a.href = `/posts/${post.filename}`;
             a.textContent = post.title;
-            em.textContent = `(${post.date})`;
+            em.textContent = post.date;
 
             li.appendChild(a);
+            li.appendchild(" ");
             li.appendChild(em);
             ul.appendChild(li);
           });
