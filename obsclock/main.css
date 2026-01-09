@@ -4,12 +4,9 @@
   font-style: normal;
 }
 
-html {
-  background-color: black;  
-}
-
 body {
   background-image: url("./assets/background.png");
+  background-color: black;
   background-repeat: no-repeat;
   background-size: 1920px 1080px;
 }
