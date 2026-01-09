@@ -1,5 +1,3 @@
-'use strict';
-
 const clock = document.getElementById('clock');
 
 const urlParams = new URL(location.href).searchParams;
