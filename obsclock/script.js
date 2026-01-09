@@ -14,3 +14,5 @@ setInterval(() => {
 
     clock.innerText = `${hours}:${minutes}:${seconds}`;
 }, 1000);
+
+// idk wtf is this
